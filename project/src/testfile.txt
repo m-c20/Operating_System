@@ -1,0 +1,5 @@
+my_ls
+echo x
+echo 5
+echo 6
+run cat test.sh
